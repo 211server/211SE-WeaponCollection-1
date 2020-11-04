@@ -1,0 +1,109 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CategoryClasses>
+  
+    <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+	  <Id>
+		<TypeId>GuiBlockCategoryDefinition</TypeId>
+		<SubtypeId/>
+	  </Id>
+			  <DisplayName>Mexpex Weapons</DisplayName>
+			  <Name>MexpexWarfareIndustries</Name>
+				<SearchBlocks>true</SearchBlocks>
+				<IsShipCategory>false</IsShipCategory>
+				<IsBlockCategory>false</IsBlockCategory>
+				<IsToolCategory>false</IsToolCategory>
+			<ItemIds>
+				<!-- Turret Cannons -->
+				<string>LargeMissileTurret/HeavyDefenseTurret</string>		
+				<string>LargeMissileTurret/BattleshipCannon</string>	
+				<string>LargeMissileTurret/BattleshipCannonMK2</string>
+				<string>LargeMissileTurret/BattleshipCannonMK22</string>	
+				<string>LargeMissileTurret/BattleshipCannonMK3</string>
+				<string>LargeMissileTurret/BFTriCannon</string>	
+				<string>LargeMissileTurret/BFG_M</string>
+				
+				<!-- Fixed Cannons -->
+				<string>SmallMissileLauncher/StaticBattery1</string>
+				<string>SmallMissileLauncher/StaticBattery1Stack</string>
+				<string>SmallMissileLauncher/StaticBattery2</string>
+				<string>SmallMissileLauncher/Static150mm</string>
+				<string>SmallMissileLauncher/Static30mm</string>
+				
+				<!-- Defense Turrets -->
+				<string>LargeMissileTurret/TelionAFGen2</string>
+				<string>LargeMissileTurret/TelionAF</string>
+				<string>LargeMissileTurret/TelionAMACM</string>
+			</ItemIds>
+		</Category>
+
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+					<DisplayName>DisplayName_Category_ShipWeapons</DisplayName>
+					<Name>Weapons</Name>
+				<ItemIds>
+					<!-- Turret Cannons -->
+					<string>LargeMissileTurret/HeavyDefenseTurret</string>		
+					<string>LargeMissileTurret/BattleshipCannon</string>	
+					<string>LargeMissileTurret/BattleshipCannonMK2</string>
+					<string>LargeMissileTurret/BattleshipCannonMK22</string>	
+					<string>LargeMissileTurret/BattleshipCannonMK3</string>
+					<string>LargeMissileTurret/BFTriCannon</string>	
+					<string>LargeMissileTurret/BFG_M</string>
+					
+					<!-- Fixed Cannons -->
+					<string>SmallMissileLauncher/StaticBattery1</string>
+					<string>SmallMissileLauncher/StaticBattery1Stack</string>
+					<string>SmallMissileLauncher/StaticBattery2</string>
+					<string>SmallMissileLauncher/Static150mm</string>
+					<string>SmallMissileLauncher/Static30mm</string>
+					
+					<!-- Defense Turrets -->
+					<string>LargeMissileTurret/TelionAFGen2</string>
+					<string>LargeMissileTurret/TelionAF</string>
+					<string>LargeMissileTurret/TelionAMACM</string>
+				</ItemIds>  
+		</Category>
+
+
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+			<Id>
+				<TypeId>GuiBlockCategoryDefinition</TypeId>
+				<SubtypeId/>
+			</Id>
+					<DisplayName>DisplayName_Category_ShipWeapons</DisplayName>
+					<Name>ShipWeapons</Name>
+					<SearchBlocks>false</SearchBlocks>
+					<IsShipCategory>true</IsShipCategory>
+					<IsBlockCategory>false</IsBlockCategory>
+					<IsToolCategory>true</IsToolCategory>
+				<ItemIds>
+					<!-- Turret Cannons -->
+					<string>LargeMissileTurret/HeavyDefenseTurret</string>		
+					<string>LargeMissileTurret/BattleshipCannon</string>	
+					<string>LargeMissileTurret/BattleshipCannonMK2</string>
+					<string>LargeMissileTurret/BattleshipCannonMK22</string>	
+					<string>LargeMissileTurret/BattleshipCannonMK3</string>
+					<string>LargeMissileTurret/BFTriCannon</string>	
+					<string>LargeMissileTurret/BFG_M</string>
+					
+					<!-- Fixed Cannons -->
+					<string>SmallMissileLauncher/StaticBattery1</string>
+					<string>SmallMissileLauncher/StaticBattery1Stack</string>
+					<string>SmallMissileLauncher/StaticBattery2</string>
+					<string>SmallMissileLauncher/Static150mm</string>
+					<string>SmallMissileLauncher/Static30mm</string>
+					
+					<!-- Defense Turrets -->
+					<string>LargeMissileTurret/TelionAFGen2</string>
+					<string>LargeMissileTurret/TelionAF</string>
+					<string>LargeMissileTurret/TelionAMACM</string>
+				</ItemIds>
+		</Category>
+	
+  </CategoryClasses>
+</Definitions>
