@@ -8,7 +8,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HEShell406mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>406mm HE Shell Stack</DisplayName>
+      <DisplayName>406mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
 	  
       <Prerequisites>
@@ -29,7 +29,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>APShell406mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>406mm AP Shell Stack</DisplayName>
+      <DisplayName>406mm 穿甲弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
 	  
       <Prerequisites>

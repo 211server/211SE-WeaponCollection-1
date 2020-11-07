@@ -8,7 +8,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HEShell460mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>460mm HE Shell Stack</DisplayName>
+      <DisplayName>460mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\GUI\Icons\AmmoIcons\X3_3x250mm_icon.dds</Icon>
 	  
       <Prerequisites>

@@ -8,7 +8,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HEShell420mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>420mm HE Shell Stack</DisplayName>
+      <DisplayName>420mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
 	  
       <Prerequisites>

@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>WolfSlug40mm</SubtypeId>
       </Id>
-      <DisplayName>40mm Wolfram Slug Belt</DisplayName>
+      <DisplayName>40mm 钨合金弹头弹匣</DisplayName>
       <Icon>Textures\GUI\Icons\Telion_30mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>
@@ -29,7 +29,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>ABShell40mm</SubtypeId>
       </Id>
-      <DisplayName>40mm Flak Shell Stack</DisplayName>
+      <DisplayName>40mm 高射炮弹匣</DisplayName>
       <Icon>Textures\GUI\Icons\Telion_30mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>

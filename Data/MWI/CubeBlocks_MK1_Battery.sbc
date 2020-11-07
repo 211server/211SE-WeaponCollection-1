@@ -7,11 +7,10 @@
 				<TypeId>SmallMissileLauncher</TypeId>
 			<SubtypeId>Static150mm</SubtypeId>
 		  </Id>
-		  <DisplayName>MK1 Battery</DisplayName>
+		  <DisplayName>MK1 电磁炮-dcp-</DisplayName>
 		  <Icon>Textures\icon\Static150mm_icon.dds</Icon>
-		  <Description>MK1 Battery's can be connected with other inventories for automated reloading.
-			
-			Requires 330mm HE Shell Stacks.
+		  <Description>MK1 电磁炮可以与物流系统连接以进行自动装填.
+需要 330mm 高爆弹弹匣.
 			</Description>
 		  <CubeSize>Large</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>
@@ -90,11 +89,10 @@
 				<TypeId>SmallMissileLauncher</TypeId>
 			<SubtypeId>Static30mm</SubtypeId>
 		  </Id>
-		  <DisplayName>MK1 Battery</DisplayName>
+		  <DisplayName>MK1 电磁炮-dcp-</DisplayName>
 		  <Icon>Textures\icon\Static150mm_icon.dds</Icon>
-		  <Description>MK1 Battery's can be connected with other inventories for automated reloading.
-			
-			Requires 88mm HE Shell Stacks.
+		  <Description>MK1 电磁炮可以与物流系统连接以进行自动装填.
+需要 88mm 高爆弹弹匣.
 			</Description>
 		  <CubeSize>Small</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>

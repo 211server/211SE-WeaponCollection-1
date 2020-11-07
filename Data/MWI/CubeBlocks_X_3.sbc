@@ -8,11 +8,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>BFTriCannon</SubtypeId>
 		  </Id>
-		  <DisplayName>X-3 Heavy Battery</DisplayName>
+		  <DisplayName>X-3 重型电磁炮-zxdcp-</DisplayName>
 		  <Icon>textures\GUI\Icons\X-3HeavyBattery_icon.dds</Icon>
-		  <Description>Missile turrets are configurable automated turrets that target anything hostile within its range.
-			
-			Requires 460mm HE Shell Stacks. Can be controlled manually from a cockpit. Use conveyors to allow automatic reloading.
+		  <Description>X-3 重型电磁炮是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 460mm 高爆弹弹匣. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
 			</Description>
 		  <CubeSize>Large</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>

@@ -8,11 +8,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>BattleshipCannonMK2</SubtypeId>
 		  </Id>
-		  <DisplayName>Battleship Cannon MK2</DisplayName>
+		  <DisplayName>战列加农炮 MK2-zljnp-</DisplayName>
 		  <Icon>textures\GUI\Icons\CannonMK2_overlay.dds</Icon>
-		  <Description>Battleship Cannon MK2's are configurable automated turrets that target anything hostile within its range.
-			
-			Requires 381mm HE Shell Stacks. Can be controlled manually from a cockpit. Use conveyors to allow automatic reloading.
+		  <Description>战列加农炮 MK2 是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 381mm 高爆弹弹匣. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
 			</Description>
 		  <GuiVisible>false</GuiVisible>
 		  <CubeSize>Large</CubeSize>
@@ -96,7 +95,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>BattleshipCannonMK22</SubtypeId>
 		  </Id>
-		  <DisplayName>Battleship Cannon MK2 Round-Base</DisplayName>
+		  <DisplayName>战列加农炮 MK2 (圆形底座)-zljnp-</DisplayName>
+		<Description>战列加农炮 MK2 是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 381mm 高爆弹弹匣. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
+		</Description>
 		  <Icon>textures\GUI\Icons\CannonMK2_overlay.dds</Icon>
 		  <GuiVisible>false</GuiVisible>
 		  <CubeSize>Large</CubeSize>

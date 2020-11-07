@@ -7,11 +7,10 @@
 				<TypeId>SmallMissileLauncher</TypeId>
 			<SubtypeId>StaticBattery1</SubtypeId>
 		  </Id>
-		  <DisplayName>Telion Dual Battery</DisplayName>
+		  <DisplayName>泰利昂双联电磁炮-tlasldcp-</DisplayName>
 		  <Icon>Textures\GUI\Icons\TelionDual_icon.dds</Icon>
-		  <Description>Telion Dual Battery's can be connected with other inventories for automated reloading.
-			
-			Requires 420mm HE Shell Stacks.
+		  <Description>泰利昂双联电磁炮可以与物流系统连接以进行自动装填.
+需要 420mm 高爆弹弹匣.
 			</Description>
 		  <CubeSize>Large</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>
@@ -91,11 +90,10 @@
 				<TypeId>SmallMissileLauncher</TypeId>
 			<SubtypeId>StaticBattery1Stack</SubtypeId>
 		  </Id>
-		  <DisplayName>Telion Dual Battery - Stacked</DisplayName>
+		  <DisplayName>泰利昂双联电磁炮(可堆叠)-tlasldcp-</DisplayName>
 		  <Icon>Textures\GUI\Icons\TelionDual_icon.dds</Icon>
-		  <Description>Telion Dual Battery's can be connected with other inventories for automated reloading.
-			
-			Requires 420mm HE Shell Stacks.
+		  <Description>泰利昂双联电磁炮可以与物流系统连接以进行自动装填.
+需要 420mm 高爆弹弹匣.
 			</Description>
 		  <GuiVisible>false</GuiVisible>
 		  <CubeSize>Large</CubeSize>

@@ -6,7 +6,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>HEShell355mm</SubtypeId>
       </Id>
-      <DisplayName>355mm HE Shell Stack</DisplayName>
+      <DisplayName>355mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>

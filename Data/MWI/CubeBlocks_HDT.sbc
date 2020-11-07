@@ -8,11 +8,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>HeavyDefenseTurret</SubtypeId>
 		  </Id>
-		  <DisplayName>Heavy Defense Turret</DisplayName>
+		  <DisplayName>重型防御炮塔-zxfypt-</DisplayName>
 		  <Icon>textures\GUI\Icons\HDT_Icon.dds</Icon>
-		  <Description>Heavy Defense Turrets are configurable automated turrets that target anything hostile within its range.
-			
-			Requires 240mm HE Shell Stacks. Can be controlled manually from a cockpit. Use conveyors to allow automatic reloading.
+		  <Description>重型防御炮塔是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 240mm 高爆弹弹匣. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
 			</Description>
 		  <CubeSize>Large</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>

@@ -8,7 +8,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HEShell330mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>330mm HE Shell Stack</DisplayName>
+      <DisplayName>330mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
 	  
       <Prerequisites>
@@ -29,7 +29,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>HEShell88mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>88mm HE Shell Stack</DisplayName>
+      <DisplayName>88mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
 	  
       <Prerequisites>

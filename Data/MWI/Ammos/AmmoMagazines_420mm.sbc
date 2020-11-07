@@ -8,7 +8,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>HEShell420mm</SubtypeId>
       </Id>
-      <DisplayName>420mm HE Shell Stack</DisplayName>
+      <DisplayName>420mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>

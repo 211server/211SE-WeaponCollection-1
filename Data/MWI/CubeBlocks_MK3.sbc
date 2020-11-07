@@ -8,11 +8,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>BattleshipCannonMK3</SubtypeId>
 		  </Id>
-		  <DisplayName>Battleship Cannon MK3</DisplayName>
+		  <DisplayName>战列加农炮 MK3-zljnp-</DisplayName>
 		  <Icon>textures\GUI\Icons\CannonMK3_overlay.dds</Icon>
-		  <Description>Battleship Cannon MK3's are configurable automated turrets that target anything hostile within its range.
-			
-			Requires either HE or AP 406mm Shell Stacks. Can be controlled manually from a cockpit. Use conveyors to allow automatic reloading.
+		  <Description>战列加农炮 MK3 是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 406mm 高爆/穿甲弹弹匣. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
 			</Description>
 		  <GuiVisible>false</GuiVisible>
 		  <CubeSize>Large</CubeSize>

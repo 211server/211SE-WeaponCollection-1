@@ -8,7 +8,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>EMSlug460mm</SubtypeId>
       </Id>
-      <DisplayName>460mm Magnetic Slug</DisplayName>
+      <DisplayName>460mm 磁性弹头</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\RailShell.dds</Icon>
       <Size>
         <X>0.25</X>

@@ -8,11 +8,10 @@
 			<TypeId>LargeMissileTurret</TypeId>
 			<SubtypeId>BFG_M</SubtypeId>
 		  </Id>
-		  <DisplayName>Magnetic Coil Cannon</DisplayName>
+		  <DisplayName>电磁线圈加农炮-dcxqjnp-</DisplayName>
 		  <Icon>textures\GUI\Icons\BFG_Icon.dds</Icon>
-		  <Description>Magnetic Coil Cannons are configurable automated turrets that target anything hostile within its range.
-			
-			Requires 460mm Magnetic Slugs. Can be controlled manually from a cockpit. Use conveyors to allow automatic reloading.
+		  <Description>电磁线圈加农炮是可配置的自动炮塔, 可针对范围内的任何敌对目标.
+需要 460mm 磁性弹头. 可以从驾驶舱手动控制. 使用物流系统来自动装填.
 			</Description>
 		  <CubeSize>Large</CubeSize>
 		  <BlockTopology>TriangleMesh</BlockTopology>

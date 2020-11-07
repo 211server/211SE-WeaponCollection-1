@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>HEShell406mm</SubtypeId>
       </Id>
-      <DisplayName>406mm HE Shell Stack</DisplayName>
+      <DisplayName>406mm 高爆弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>
@@ -28,7 +28,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>APShell406mm</SubtypeId>
       </Id>
-      <DisplayName>406mm AP Shell Stack</DisplayName>
+      <DisplayName>406mm 穿甲弹弹匣</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>

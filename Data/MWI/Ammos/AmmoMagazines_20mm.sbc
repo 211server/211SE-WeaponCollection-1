@@ -7,7 +7,7 @@
         <TypeId>AmmoMagazine</TypeId>
         <SubtypeId>NATO_20x102mm</SubtypeId>
       </Id>
-      <DisplayName>20x102mm NATO Belt</DisplayName>
+      <DisplayName>20x102mm NATO 弹链</DisplayName>
       <Icon>Textures\icon\150mmAmmo_icon.dds</Icon>
       <Size>
         <X>0.25</X>

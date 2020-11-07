@@ -8,7 +8,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>EMSlug460mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>460mm Magnetic Slug</DisplayName>
+      <DisplayName>460mm 磁性弹头</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\RailShell.dds</Icon>
 	  
       <Prerequisites>

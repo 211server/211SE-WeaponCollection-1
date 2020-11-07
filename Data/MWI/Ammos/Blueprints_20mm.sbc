@@ -7,7 +7,7 @@
         <TypeId>BlueprintDefinition</TypeId>
         <SubtypeId>NATO_20x102mm_Blueprint</SubtypeId>
       </Id>
-      <DisplayName>20×102mm NATO Belt</DisplayName>
+      <DisplayName>20×102mm NATO 弹链</DisplayName>
       <Icon>Textures\GUI\Icons\ammo\Ammo_Box.dds</Icon>
 	  
       <Prerequisites>
